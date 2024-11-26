@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @stantowne
-- 👀 I’m interested in writing a program that plays solitaire
-- 🌱 I’m currently learning python for that purpose
-- 💞️ I’m looking to collaborate on ...
+- 👀 An old friend and I are working on a GO program that plays klondike solitaire
 - 📫 How to reach me stantowne@gmail.com
 
 <!---
